@@ -30,10 +30,12 @@ This project uses a conda environment for dependency management.
     ```bash
      conda activate extraction
     ```
-3. **Installl libraries:**
+**Installl libraries:**
+1. 
     ```bash
     conda install -c conda-forge transformers torch pytorch-lightning  # Use conda for optimal package management; including pytorch-lightning is recommended for better model training workflows.
     ```
+2. 
     ```bash
 python -m spacy download es_core_news_sm
 conda install -c conda-forge pypdf2  #Or another PDF processing library as needed.
