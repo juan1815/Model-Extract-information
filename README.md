@@ -1,4 +1,4 @@
-# Model-Extract-information: Extracting Project Information from A3 Gaceta PDFs (2000-2025)
+# Model-Extract-information: Extracting Project Information from A3 Gaceta PDFs
 
 This project uses Python to extract information (projects, entities, dates, etc.) from A3-sized PDF "Gacetas" containing project details.  These Gacetas span the years 2000-2025 and may have varying structural formats.  We leverage pre-trained open-source models and tools.
 
@@ -33,7 +33,8 @@ This project uses a conda environment for dependency management.
 3. **Installl libraries:**
     ```bash
     conda install -c conda-forge transformers torch pytorch-lightning  # Use conda for optimal package management; including pytorch-lightning is recommended for better model training workflows.
-    
+    ```
+    ```bash
 python -m spacy download es_core_news_sm
 conda install -c conda-forge pypdf2  #Or another PDF processing library as needed.
     ```
