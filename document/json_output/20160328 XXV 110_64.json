@@ -1,0 +1,16 @@
+{
+    "directores": {},
+    "nombre": "Gaceta del Congreso",
+    "entidades": [
+        "SENADO",
+        "CÁMARA",
+        "SENADO Y CAMARA"
+    ],
+    "anio_romano": "XXV",
+    "anio": 25,
+    "fecha": "28/03/2016",
+    "num_paginas": 64,
+    "rama": "Rama Legislativa del Poder Público",
+    "titulo": "SENADO DE LA REPÚBLICA",
+    "tipo_documento": "COMENTARIOS"
+}
