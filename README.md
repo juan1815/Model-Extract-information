@@ -12,3 +12,7 @@ This PDF are 'Gacetas', This Document content information of proyects, entities,
 - pip install transformers torch
 - python -m spacy dowload es_core_news_sm
 - pip install re
+
+## Install the next models
+- pip install  spacy
+- python -m spacy download es_core_news_lg
