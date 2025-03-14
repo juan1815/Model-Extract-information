@@ -3,7 +3,7 @@ This project is Architec's, we develop a model with lengauage python to extract 
 
 This PDF are 'Gacetas', This Document content information of proyects, entities, dates, etc. The purpose is extract the presentation and proyects with a next range: From 2000 to 2025. 
 
-
+ 
 ## Create a space-Enviroment
 - conda create -m Extraction
 - conda activate Extraction
@@ -12,3 +12,7 @@ This PDF are 'Gacetas', This Document content information of proyects, entities,
 - pip install transformers torch
 - python -m spacy dowload es_core_news_sm
 - pip install re
+
+## Install the next models
+- pip install  spacy
+- python -m spacy download es_core_news_lg
