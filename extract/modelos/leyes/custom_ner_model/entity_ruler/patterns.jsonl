@@ -1,2 +1,0 @@
-{"label":"EPIGRAFE","pattern":[{"TEXT":{"REGEX":"^[\\'\"]?POR"}},{"LOWER":"medio"},{"LOWER":"de"},{"LOWER":"la"},{"LOWER":"cual"}]}
-{"label":"EPIGRAFE","pattern":[{"TEXT":{"REGEX":"POR"}}]}
