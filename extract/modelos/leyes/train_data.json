@@ -1,0 +1,90 @@
+[
+    [
+        "2182 3ENE2022 LEY No \"POR MEDIO DEL CUAL SE MODIFICA EL ARTICULO 13 DE LA LEY ) 2002\" EL CONGRESO DE COLOMBIA",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "NUMERO_LEY"
+                ],
+                [
+                    5,
+                    13,
+                    "FECHA"
+                ],
+                [
+                    14,
+                    103,
+                    "EPIGRAFE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2184 6ENE2022 LEY No. POR MEDIO DE LA CUAL SE DICTAN NORMAS ENCAMINADAS A FOMENTAR, PROMOVER LA SOSTENIBILIDAD, LA VALORACION Y LA TRANSMISION DE LOS SABERES DE LOS OFICIOS ARTISTICOS, DE LAS INDUSTRIAS CREATIVAS Y CULTURALES, ARTESANALES Y DEL PATRIMONIO CULTURAL EN COLOMBIA Y SE DICTAN OTRAS DISPOSICIONES EL CONGRESO DE COLOMBIA",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "NUMERO_LEY"
+                ],
+                [
+                    5,
+                    13,
+                    "FECHA"
+                ],
+                [
+                    14,
+                    236,
+                    "EPIGRAFE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2185 ENE2022 LEY No \"POR MEDIO DE LA CUAL SE CREA EL FESTIVAL NACIONAL DE LA MARIMBA DE CHONTA, Y SE DICTAN OTRAS DISPOSICIONES\" EL CONGRESO DE COLOMBIA",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "NUMERO_LEY"
+                ],
+                [
+                    5,
+                    12,
+                    "FECHA"
+                ],
+                [
+                    13,
+                    120,
+                    "EPIGRAFE"
+                ]
+            ]
+        }
+    ],
+    [
+        "8FEB2022 - .  LEY ORGANICA No2199 \"POR MEDIO DE LA CUAL. \" . ",
+        {
+            "entities": [
+                [
+                    0,
+                    0,
+                    "8"
+                ],
+                [
+                    22,
+                    28,
+                    "8"
+                ],
+                [
+                    30,
+                    30,
+                    "122"
+                ]
+            ]
+        }
+    ]
+]

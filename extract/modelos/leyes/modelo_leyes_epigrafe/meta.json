@@ -18,6 +18,8 @@
   },
   "labels":{
     "ner":[
+      "122",
+      "8",
       "EPIGRAFE",
       "FECHA",
       "NUMERO_LEY"
