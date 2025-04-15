@@ -1,89 +1,201 @@
 [
     [
-        "2182 3ENE2022 LEY No \"POR MEDIO DEL CUAL SE MODIFICA EL ARTICULO 13 DE LA LEY ) 2002\" EL CONGRESO DE COLOMBIA",
+        "LEY 7 DE 1933 (SEPTIEMBRE 30) por la cual se abren algunos créditos adicionales al Presupuesto de la vigencia fiscal en curso y se dictan medidas de aplicacion presupuestal. ANTECEDENTES (Originaria de la Camara).",
         {
             "entities": [
-                [
-                    0,
-                    4,
-                    "NUMERO_LEY"
-                ],
-                [
-                    5,
-                    13,
-                    "FECHA"
-                ],
-                [
-                    14,
-                    103,
-                    "EPIGRAFE"
-                ]
+                [4, 6, "NUMERO_LEY"],
+                [9, 29, "FECHA"],
+                [30, 173, "EPIGRAFE"]
             ]
         }
     ],
     [
-        "2184 6ENE2022 LEY No. POR MEDIO DE LA CUAL SE DICTAN NORMAS ENCAMINADAS A FOMENTAR, PROMOVER LA SOSTENIBILIDAD, LA VALORACION Y LA TRANSMISION DE LOS SABERES DE LOS OFICIOS ARTISTICOS, DE LAS INDUSTRIAS CREATIVAS Y CULTURALES, ARTESANALES Y DEL PATRIMONIO CULTURAL EN COLOMBIA Y SE DICTAN OTRAS DISPOSICIONES EL CONGRESO DE COLOMBIA",
+        "LEY 19 DE 1933 (OCTUBRE 23) por la cual se provee al estudio técnico de varias vías y se incluye una en el plan de carreteras nacionales. ANTECEDENTES.",
         {
             "entities": [
-                [
-                    0,
-                    4,
-                    "NUMERO_LEY"
-                ],
-                [
-                    5,
-                    13,
-                    "FECHA"
-                ],
-                [
-                    14,
-                    236,
-                    "EPIGRAFE"
-                ]
+                [4, 6, "NUMERO_LEY"],
+                [10, 24, "FECHA"],
+                [25, 138, "EPIGRAFE"]
             ]
         }
     ],
     [
-        "2185 ENE2022 LEY No \"POR MEDIO DE LA CUAL SE CREA EL FESTIVAL NACIONAL DE LA MARIMBA DE CHONTA, Y SE DICTAN OTRAS DISPOSICIONES\" EL CONGRESO DE COLOMBIA",
+        "LEY 22 DE 1933 (OCTUBRE 27) sobre honores a la memoria de Monseñor Manuel María Camargo. EXPOSICION DE MOTIVOS del proyecto de ley sobre honores a la memoria de Monseñor Manuel María Camargo.",
         {
             "entities": [
-                [
-                    0,
-                    4,
-                    "NUMERO_LEY"
-                ],
-                [
-                    5,
-                    12,
-                    "FECHA"
-                ],
-                [
-                    13,
-                    120,
-                    "EPIGRAFE"
-                ]
+                [4, 6, "NUMERO_LEY"],
+                [10, 24, "FECHA"],
+                [25, 138, "EPIGRAFE"]
             ]
         }
     ],
     [
-        "8FEB2022 - .  LEY ORGANICA No2199 \"POR MEDIO DE LA CUAL. \" . ",
+        "LEY 31 DE 1933 (NOVIEMBRE 17) por la cual se autoriza al Gobierno para celebrar un acuerdo provisional de comercio con los Estados Unidos de Venezuela y se dictan otras disposiciones. ANTECEDENTES",
         {
             "entities": [
-                [
-                    0,
-                    0,
-                    "8"
-                ],
-                [
-                    22,
-                    28,
-                    "8"
-                ],
-                [
-                    30,
-                    30,
-                    "122"
-                ]
+                [4, 6, "NUMERO_LEY"],
+                [10, 27, "FECHA"],
+                [28, 184, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 33 DE 1933 (NOVIEMBRE 17) por la cual se adicionan y reforman algunas disposiciones sobre la Caja de Crédito Agrario e Industrial. EXPOSICION DE MOTIVOS",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 27, "FECHA"],
+                [28, 135, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 6 DE 1931 (10 DE ENERO) por la cual se honra la memoria de un ciudadano eminente. El Congreso de Colombia DECRETA:",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 24, "FECHA"],
+                [25, 138, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 8q DE 1931 (ENERO 14) por la cual se aprueba un contrato (el celebrado con Gonzalo Mejia sobre establecimiento de un servicio de navegacion aérea entre Medellin y el golfo de Uraba), y se dan algunas autorizaciones al Gobierno. El Congreso de Colombia",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [9, 25, "FECHA"],
+                [26, 231, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 9 DE 1931 (ENERO 17) por la cual la Republica conmemora el centenaria del nacimiento del sefor doc- tor Carlos Holguin. El Congreso de Colombia,",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [8, 24, "FECHA"],
+                [27, 232, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 1a DE 1929 (AGOSTO 12) por la cual se declara de urgente necesidad y utilidad publica la termina- cion de una carretera entre el Departamento del Valle y la Intendencia del Choco, se dan unas autorizaciones al Poder Ejecutivo y se reforma y adi- ciona la Ley 65 de 1917. El Congreso de Colombia",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 26, "FECHA"],
+                [27, 272, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 4a DE 1929 (AGOSTO 23) sobre lucha antiolidica. El Congreso de Colombia DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 26, "FECHA"],
+                [27, 51, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "22 LEY 15 DE 1929 (UCTUBRE 10) por la cual se abren varios créditos adicionales a la Ley de apropiaciones de la actual vigencia fiscal, se dicta una disposicion relacionada con el ramo de Guerra, otra con el ramo de Gobierno, se legalizan varios créditos y se declara departamental una via. El Congreso de Colombia ",
+        {
+            "entities": [
+                [7, 9, "NUMERO_LEY"],
+                [13, 29, "FECHA"],
+                [30, 290, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 27 DE 1929 (NOVIEMBRE 8) por la cual se suprime un Juzgado de Circuito y se crea un nuevo Circuito Judicial. El Congreso de Colombia",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 28, "FECHA"],
+                [29, 113, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 31 DE L y (NOVIEMBRE 12) por la cual se reforma el Codigo Electoral. El Congreso de Colombia ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 27, "FECHA"],
+                [28, 73, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 3 DE 1927 (AGOSTO 19) por la cual se asocia la Republica a la celebraclon de un centenarlo. ANTECEDENTES ",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [9, 26, "FECHA"],
+                [27, 96, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "10 LEY 6 DE 1927 (AGOSTO 31) por la cual se adiciona el computo liquido del Presupuesto Nacional de rentas para el ano fiscal de 1.0 de enero a 31 de diciembre de 1927, y se abren varios créditos adicionales al Presupuesto Nacional de gastos de la misma vigencia. El Congreso de Colombia",
+        {
+            "entities": [
+                [6, 8, "NUMERO_LEY"],
+                [11, 27, "FECHA"],
+                [28, 262, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 2 DE 1922 (enero 4) que honra la memoria del sefior doctor Evaristo Garcia. El Congreso de Colombia,",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [9, 23, "FECHA"],
+                [24, 80, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 6 DE 1922 (6 de febrero) por la cual se reforma la 72 de 1919, sobre asignaciones a los empleados nacionales, y se dictan otras disposiciones de caracter fiscal. El Congreso de Colombia ",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [9, 27, "FECHA"],
+                [28, 165, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 12 DE 1922 (marzo 28) For la cual se reforman las 69 y 82 de 1916, la 61 de 1921 y la 6 se concede un auxilio y se abren varios créditos adicionales al de 1922, Presupuesto de gastos de la vigencia en curso. El Congreso de Colombia ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [9, 25, "FECHA"],
+                [26, 210, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 2a. DE 1921 (29 de agosto) por la cual se ordena restablecer el Médico de Sanidad de Guapi. El Congreso de Colombia ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 29, "FECHA"],
+                [31, 96, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 3 DE 1917 (septiembre 15) por la cual se legalizan los créditos extraordinarios abiertos a los Presupuetos de gastos de las vigencias fiscales de Igro y de 1917. El Congreso de Colombia",
+        {
+            "entities": [
+                [4, 5, "NUMERO_LEY"],
+                [9, 29, "FECHA"],
+                [30, 165, "EPIGRAFE"]
             ]
         }
     ]

@@ -18,10 +18,9 @@
   },
   "labels":{
     "ner":[
-      "122",
-      "8",
       "EPIGRAFE",
       "FECHA",
+      "FORMULA",
       "NUMERO_LEY"
     ]
   },
