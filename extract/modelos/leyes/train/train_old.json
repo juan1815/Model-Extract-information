@@ -1,0 +1,577 @@
+[
+    [
+        "229 1876 LEY (1) (3 DE JUNIO) organica de la administraci6a y régimen municipal. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [12, 16, "NUMERO_LEY"],
+                [17, 29, "FECHA"],
+                [30, 80, "EPIGRAFE"],
+                [81, 163, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1850 LEY (MAYO 11) sobre codigo de procedimicnto en los negocios criminales, El Senado y la Càmara de Representantes de la Nueva Granada, reunidos en Congreso DECRETAN:",
+        {
+            "entities": [
+                [9, 18, "FECHA"],
+                [19, 75, "EPIGRAFE"],
+                [77, 158, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1853 LEY (15 DE MAYO) subre patentes de invencion 0 mejura de maquinas o productos industrlales. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRET, AN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 96, "EPIGRAFE"],
+                [97, 178, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEY 31 DE 1933 (NOVIEMBRE 17) por la cual se autoriza al Gobierno para celebrar un acuerdo provisional de comercio con los Estados Unidos de Venezuela y se dictan otras disposiciones. ANTECEDENTES",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 27, "FECHA"],
+                [28, 184, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "LEY 33 DE 1933 (NOVIEMBRE 17) por la cual se adicionan y reforman algunas disposiciones sobre la Caja de Crédito Agrario e Industrial. EXPOSICION DE MOTIVOS",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [10, 27, "FECHA"],
+                [28, 135, "EPIGRAFE"]
+            ]
+        }
+    ],
+    [
+        "1856 LEY (18 DE MAYO) Bobre concierto de preaas por deudas. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 59, "EPIGRAFE"],
+                [60, 141, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1857 LEY (18 DE MAYO) adicional a las 10 (1) y 13 2), parte 1*, tratado 60 de la recopilacion granadi- Da, aobre guardia nacional. El Senado y - la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 129, "EPIGRAFE"],
+                [131, 215, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1866 LEY - (29 DE MAYO) sobre facultad coactiva de los empleados pablicos. El Senado y la Camara de Representantes del a Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [8, 24, "FECHA"],
+                [27, 130, "EPIGRAFE"],
+                [131, 163, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "29 1798 LEY (13 DE MARZO) adiclonal a la de 19 de mayo de 1845 (1), organica de las secretarian de entado. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [12, 25, "FECHA"],
+                [26, 106, "EPIGRAFE"],
+                [107, 190, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1874 LEY (2) (2 DE JUNIO) adicional a a de 7 de junio de 1847 (3), organica de la administracion de a hacienda nacional. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso DECRETAN:",
+        {
+            "entities": [
+                [9, 12, "NUMERO_LEY"],
+                [13, 25, "FECHA"],
+                [26, 119, "EPIGRAFE"],
+                [121, 202, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2110 LEY (12 DE JUNIO) sobre personal y sueldos de las oficinas de hacienda nacional. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 86, "EPIGRAFE"],
+                [87, 168, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "457 2101 LEY (1) (1 DE JUNIO) adicional y complementaria de la de 20 de abril de 1850 (2), sobre descentralizacion de rentas y gastos. El Senado y la Càmara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [13, 16, "NUMERO_LEY"],
+                [17, 29, "FECHA"],
+                [30, 134, "EPIGRAFE"],
+                [135, 216, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2045 LEY (12 DE ABRIL) que hace varias concesiones al canton de Bocas del Toro. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN: ",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 79, "EPIGRAFE"],
+                [80, 163, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2041 LEY (26 DE MARZO) sobre inmunidades de los agentes diplomaticos de naciones extranjeras. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN: ",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 93, "EPIGRAFE"],
+                [94, 177, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2066 LEY (20 DE MAYO) sobre policia de puertoa y expedicion de pateutes de navegacion. El Senado y la Càmara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 87, "EPIGRAFE"],
+                [88, 169, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "188 2308 LEY (14 DE MAYO) sobre libertad religiosa. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN: ",
+        {
+            "entities": [
+                [13, 25, "NUMERO_LEY"],
+                [26, 51, "EPIGRAFE"],
+                [52, 135, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "210 2322 LEY (1) (30 DE MAYO) sobre ministerio publico. ElSen do y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN: ",
+        {
+            "entities": [
+                [13, 16, "NUMERO_LEY"],
+                [17, 29, "FECHA"],
+                [30, 54, "EPIGRAFE"],
+                [55, 136, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2272 LEY. (14 DE ABRIL) que restablece la antigua provincia de Antioquia. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [10, 22, "FECHA"],
+                [23, 73, "EPIGRAFE"],
+                [74, 157, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "143 2288 LEY (20 DE ARRIL) que determina a quién toca dirimir las competencias entre los juzgados de circuito y parroquiales, con los comandantes generales de departamento. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [13, 26, "FECHA"],
+                [27, 172, "EPIGRAFE"],
+                [173, 256, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "187 2307 LEY (12 DE MAYO) en honor a la memoria de Cristobal Colon. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:  ",
+        {
+            "entities": [
+                [13, 25, "FECHA"],
+                [26, 67, "EPIGRAFE"],
+                [68, 150, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "de 2354 LEY (5 DE JUNIO) deberes a los tribunales y juzgados, con relacion a los actos que impone ciertos municipales legislativos de de la Nueva Granada, El Senado y la Camara Representantes reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 24, "FECHA"],
+                [25, 153, "EPIGRAFE"],
+                [154, 214, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2356 LEY (9 DE JUNIO) transitorias de contabilidad, para simplificar que prescribe varias operaciones fiscal de la Republica. convenientemente la situacion de de la Nueva Granada, El Senado y la Camara Representantes reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 179, "EPIGRAFE"],
+                [180, 239, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2361 LEY (18 DE UNIO) () obre lecciones. El Senado y a Camara de Representantes de la Naeva Oranada, reanidos ee Congreso, DECRETAN: ",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 39, "EPIGRAFE"],
+                [40, 123, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "A 2339 LEY (8 DE ABRIL) sobre matrimonio. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [10, 23, "FECHA"],
+                [24, 41, "EPIGRAFE"],
+                [42, 123, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2404 LEY (15 DE MAYO) (2) que autoriza al Poder Ejecutivo para crear hasta tres distritos de hacienda y nombrar un visitador fiscal, El Senado y la Camara de Representantes de le Nueva Granada, reunidos en Congreso; DECRETAN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [26, 132, "EPIGRAFE"],
+                [133, 215, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2346 LEY (1.° DE MAYO) (1) sobre registro del estado civil de las personas. la Camara de Representantes de la Nueva Granada, El Senado y reunidos en Congreso, DECRETAN:",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [26, 75, "EPIGRAFE"],
+                [76, 158, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "1853 LEY (15 DE MAYO) subre patentes de invencion 0 mejura de maquinas o productos industrlales. El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Congreso, DECRET, AN:",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 96, "EPIGRAFE"],
+                [97, 180, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "108 2455 LEY (10 DE JUNIO) que crea y organiza el derecho de timbre. El Congreso de là Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [13, 26, "FECHA"],
+                [27, 68, "EPIGRAFE"],
+                [69, 110, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2461 LEY (25 DE JUNIO) (1) que declara abolidas ciertas franquicias comerciales y dispone el modo de hacer el pago de los derechos de importacion. El Congreso de la Confederacion Granadina DECRETA:",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [27, 145, "EPIGRAFE"],
+                [146, 188, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2463 LEY (26 DE JUNIO) sobre establecimientos de castigo. El Congreso de la Confederacion Granadina DECRETA:",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 57, "EPIGRAFE"],
+                [58, 99, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2466 LEY (29 DE JUNIO) organica del poder judicial de la Confederacion. El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [9, 22, "FECHA"],
+                [23, 71, "EPIGRAFE"],
+                [72, 113, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2435 LEY (25 DE FEBRERO) que dispone el modo de suplir las faltas de los magistrados de la suprema corte de justicia y del procurador general de la Nacion, cuando por cualquiera. causa no puedan tomar posesion los propietarios (1). El Senado y la Camara de Representantes de la Nueva Granada, reunidos en Cangreso, DECRETAN: ",
+        {
+            "entities": [
+                [9, 24, "FECHA"],
+                [25, 226, "EPIGRAFE"],
+                [231, 315, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2506 LEY (14 DE MAYO) que aclara el articulo 49 de la Constitucion. El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [9, 21, "FECHA"],
+                [22, 67, "EPIGRAFE"],
+                [68, 109, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "258 2484 LEY (1) (8 DE ABRIL) sobrelecciones. El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [12, 16, "NUMERO_LEY"],
+                [17, 29, "FECHA"],
+                [30, 45, "EPIGRAFE"],
+                [46, 87, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "334 2493 LEY (28 DE ABRIL) que manda pagar ciertas deudas del tesoro de la Confederacion a los estados.. El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [13, 26, "FECHA"],
+                [27, 104, "EPIGRAFE"],
+                [105, 146, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "225 2470 LEY (12 DE FEBRERO) de amnistia, El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [13, 27, "FECHA"],
+                [28, 40, "EPIGRAFE"],
+                [81, 163, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "228 2472 LEY (1) (23 DE FEBRERO) sobre fuerza publica nacional para el proximo ano economico. El Congreso de la Confederacion Granadina DECRETA: ",
+        {
+            "entities": [
+                [13, 16, "NUMERO_LEY"],
+                [17, 32, "FECHA"],
+                [33, 93, "EPIGRAFE"],
+                [94, 135, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 74 (DE 7 DE JUNIO). DECRETO que reconoce los servicios del selior A. Goldberg i asigna sueldo al Consulado de Amsterdam. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 124, "EPIGRAFE"],
+                [125, 170, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 76 (DE 7 DE JUNIO). DECRETO sobre colocacion de la-estatua donada por la Emperatriz Eajenia. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DEORETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 96, "EPIGRAFE"],
+                [97, 142, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 79 (DE 9 DE JUNIO), reformatoria do las de monedas. EL CONGRESO DE LOS ESTADOS.UNIDOS DE COLOMBIA DECEETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 55, "EPIGRAFE"],
+                [56, 101, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 83 (DE 10 DE JUNIO). DECRETO sobre pago de un credito al ciudadano Anselmo Pineda. EL CONGRESO DE LOS ESTADOS UNIDOS DE OOLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 23, "FECHA"],
+                [24, 85, "EPIGRAFE"],
+                [86, 132, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 86 (DE 13 DE JUNIO), sobre Presupuestos nacionales para la vijencia econonica de 1871 a 1872. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 23, "FECHA"],
+                [24, 97, "EPIGRAFE"],
+                [98, 143, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 47 DE 16 DE MAYO), reformatoria de la de 10 de junio de 1870, que reglamenta la Aduana de Cacuta i las operaciones de comercio que por este puerto se verifican. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 21, "FECHA"],
+                [22, 164, "EPIGRAFE"],
+                [165, 210, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 49 (DE 19 DE MAYO), à por la cual se aprueba el censo de poblacion do algunos Estados de la Union. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 102, "EPIGRAFE"],
+                [103, 148, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 51 (DE 20 DE MAYO), qne adiciona la de 6 de abril de 1870, que declara libre la esplotacion de bosques nacionales. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 118, "EPIGRAFE"],
+                [119, 164, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 53 (DE 23 DE NAYO). 2 EECRETO por el cual se aprueba un contrato sobre proroga de los arrendamientos de las minas de Santa Ana 1 La Manta, i de Supia i Alarmato. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECETA:",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 165, "EPIGRAFE"],
+                [166, 211, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 54 (DE 23 DE MAYO).  DECRETO por el cual se concede una pension al invalido Pastor Segura. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA, CONSIDER ANDO: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 165, "EPIGRAFE"],
+                [166, 211, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 55 (DE 23 DE MAYO). DECRETO que asimila ciertas pensiones a las do los militaros de la Independencia. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA:",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 105, "EPIGRAFE"],
+                [106, 151, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 56 (DE 23 DE MAYO). DECRETO que manda considorar a Andres Alzate como nilitar de la Independencia, para los efectos legales sobre pensiones. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA, CONSIDERANDO: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 144, "EPIGRAFE"],
+                [145, 191, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 60 (DE 1.° DE JUNIO). DECRETO por el cual se concede una pension vitalicia a la seiiora Teresa Narifio. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA, CONSIDERANDO: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 24, "FECHA"],
+                [25, 107, "EPIGRAFE"],
+                [108, 155, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 67 (DE 2 DE JUNIO). DECRETO por ol cual se concede a los pobladores de Nare una porcion determinada de tierras baldias. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 22, "FECHA"],
+                [23, 123, "EPIGRAFE"],
+                [124, 169, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI.16 (DE 27 DE MARZO), que abre an crédito adicional al Presupuesto para la vijencia economica de 1870 a 1871.  EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 23, "FECHA"],
+                [24, 111, "EPIGRAFE"],
+                [113, 159, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "LEI 20 (DE 10 DE ABRIL). DECRETO sobre foniento de la aldea de San Faustino. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [4, 6, "NUMERO_LEY"],
+                [7, 23, "FECHA"],
+                [25, 76, "EPIGRAFE"],
+                [77, 122, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "728 LEYES DE 1871. LEI 6. (DE 28 DE FEBRERO), que reforma el articulo 1. de la lei do 2 de junio do 1809. EL CONGRESO DE LOS ESTADOS UNIDOS DE COLOMBIA DECRETA: ",
+        {
+            "entities": [
+                [23, 24, "NUMERO_LEY"],
+                [26, 44, "FECHA"],
+                [45, 105, "EPIGRAFE"],
+                [106, 151, "FORMULA"]
+            ]
+        }
+    ],
+    [
+        "2813 LEY 62 (DE 11 DE JUNIO) Decreto de honores a la memoria del ciudadano Pedro Alcantara Herran. El Congreso de los Estados Unidos de Colombia, CONSIDERANDO: ",
+        {
+            "entities": [
+                [9, 11, "NUMERO_LEY"],
+                [12, 28, "FECHA"],
+                [29, 98, "EPIGRAFE"],
+                [99, 146, "FORMULA"]
+            ]
+        }
+    ]
+    
+]
